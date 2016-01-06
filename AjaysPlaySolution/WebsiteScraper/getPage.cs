@@ -6,7 +6,7 @@ namespace WebsiteScraper
 {
     class getPage
     {
-        public static void StorePageContentAsString(string search, Timer timer)
+        public static void SaveAndSearchPageContents(string search, Timer timer)
         {
             string result;
             WebClient client = new WebClient();
@@ -16,15 +16,14 @@ namespace WebsiteScraper
             {
                 Console.WriteLine("Could not find your searchstring - looks like it is now open :)");
                 Email.sendEmail("JOB is now open", "Your search string was not found - this indicates that the JOB is now open");
-                Console.WriteLine("Email was sent");
                 timer.Stop();
             }
             else
             {
                 Console.WriteLine("Looks like it is still not open :( keep looking");
-                //Email.sendEmail("JOB is still closed", "Your search string was found - this indicates that the JOB is still closed");
-                Console.WriteLine("No email sent \n");
+                Email.sendEmail("JOB is still closed", "Your search string was found - this indicates that the JOB is still closed");
             }
+            Console.WriteLine("You should have received an email \n");
         }
     }
 }

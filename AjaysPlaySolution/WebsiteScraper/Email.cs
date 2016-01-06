@@ -10,8 +10,8 @@ namespace WebsiteScraper
         {
             MailMessage email = new MailMessage();
             email.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure;
-            email.To.Add("ajay.sharma@williamhill.com.au");
-            email.From = new MailAddress("ajaybelfast@gmail.com");
+            email.To.Add("ajaybelfast@hotmail.com");
+            email.From = new MailAddress("ajaybelfastsydney@gmail.com");
 
             email.Subject = subject;
             email.Body = body;
@@ -20,7 +20,7 @@ namespace WebsiteScraper
             server.EnableSsl = true;
             server.DeliveryMethod = SmtpDeliveryMethod.Network;
             server.UseDefaultCredentials = false;
-            server.Credentials = new NetworkCredential("ajaybelfast@gmail.com", "OldDelhi2013");
+            server.Credentials = new NetworkCredential("ajaybelfastsydney@gmail.com", "93deskwood");
 
             server.Send(email);
             Console.WriteLine("Email has been sent successfully");
