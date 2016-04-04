@@ -9,3 +9,9 @@ C:\src\AjaysPlaySolution\WebsiteScraper\obj\Debug\WebsiteScraper.pdb
 C:\src\AjaysPlaySolution\WebsiteScraper\bin\Debug\WebsiteScraper.exe
 C:\src\AjaysPlaySolution\WebsiteScraper\bin\Debug\WebsiteScraper.pdb
 C:\src\AjaysPlaySolution\WebsiteScraper\obj\Debug\WebsiteScraper.csprojResolveAssemblyReference.cache
+C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\bin\Debug\WebsiteScraper.exe.config
+C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\obj\Debug\WebsiteScraper.exe
+C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\obj\Debug\WebsiteScraper.pdb
+C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\bin\Debug\WebsiteScraper.exe
+C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\bin\Debug\WebsiteScraper.pdb
+C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\obj\Debug\WebsiteScraper.csprojResolveAssemblyReference.cache
