@@ -15,3 +15,6 @@ C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\obj\Debug\WebsiteScraper.p
 C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\bin\Debug\WebsiteScraper.exe
 C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\bin\Debug\WebsiteScraper.pdb
 C:\src\ATCJobScraper\AjaysPlaySolution\WebsiteScraper\obj\Debug\WebsiteScraper.csprojResolveAssemblyReference.cache
+C:\src\ATCJobScraper\WebsiteScraper\bin\Debug\WebsiteScraper.exe.config
+C:\src\ATCJobScraper\WebsiteScraper\obj\Debug\WebsiteScraper.exe
+C:\src\ATCJobScraper\WebsiteScraper\obj\Debug\WebsiteScraper.pdb
